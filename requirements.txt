@@ -1,0 +1,6 @@
+pandas>=2.0
+requests>=2.31
+SQLAlchemy>=2.0
+pytest>=8.0
+# Only needed if you point DATABASE_URL at PostgreSQL:
+# psycopg2-binary>=2.9
